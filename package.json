@@ -1,0 +1,39 @@
+{
+  "name": "handlebars-helper-track",
+  "description": "{{track}} handlebars helper. Simplify the process of adding Google analytics tracking codes to your web projects.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/helpers/handlebars-helper-track",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/helpers/handlebars-helper-track.git"
+  },
+  "bugs": {
+    "url": "https://github.com/helpers/handlebars-helper-track/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/helpers/handlebars-helper-track/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "~2.2.1"
+  },
+  "keywords": [
+    "assemble",
+    "handlebars helper",
+    "handlebars",
+    "helper"
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt": "~0.4.2",
+    "grunt-readme": "~0.4.1",
+    "grunt-repos": "~0.1.2"
+  }
+}

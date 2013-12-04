@@ -1,7 +1,7 @@
 {
   "name": "handlebars-helper-track",
   "description": "{{track}} handlebars helper. Simplify the process of adding Google analytics tracking codes to your web projects.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/helpers/handlebars-helper-track",
   "author": {
     "name": "Jon Schlinkert",
